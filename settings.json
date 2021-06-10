@@ -1,0 +1,14 @@
+{
+    "some_info": "on 'message' parrament use --subs for the sub count to be displayed",
+    "config": {
+        "channel_name": "youtube_channel_name",
+        "discord_token": "discord_token",
+        "youtube_api_token": "yt_token",
+        "discord_channel_id": "UCRr9zwIhUa9pnN0h_PLnfxw",
+        "message": "message to be displayed on discord text channel"
+    },
+    "subs": {
+        "max": "0",
+        "current": "0"
+    }
+}
