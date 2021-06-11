@@ -4,7 +4,7 @@
         "channel_name": "youtube_channel_name",
         "discord_token": "discord_token",
         "youtube_api_token": "yt_token",
-        "discord_channel_id": "UCRr9zwIhUa9pnN0h_PLnfxw",
+        "discord_channel_id": "channel_id",
         "message": "message to be displayed on discord text channel"
     },
     "subs": {
